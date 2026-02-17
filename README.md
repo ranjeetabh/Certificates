@@ -1,1 +1,1 @@
-This repository contains all relevant certificates relevant to AI/ML 
+This repository contains list of certificates relevant to AI/ML
